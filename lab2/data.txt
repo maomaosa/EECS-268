@@ -1,0 +1,4 @@
+PICK_UP 1
+WAIT Kirk
+WAIT Spock
+DROP_OFF 15
